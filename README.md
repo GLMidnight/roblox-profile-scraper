@@ -1,7 +1,7 @@
 # ⚠️ Disclaimer
 This script is intended for educational purposes only.
 
-Roblox’s Terms of Use prohibit the use of automated tools, scrapers, and bots to access or collect data from their platform. By using this code, you acknowledge that:
+Roblox’s Terms of Use prohibit the use of automated tools, scrapers, and bots to access or collect data from their platform. By using this script, you acknowledge that:
 - You may be violating Roblox’s Terms of Service if you run this script against their live site.
 - This project is provided for learning and experimentation only, not for production or large-scale use.
 - The author does not condone misuse, and is not responsible for how this tool is used.
